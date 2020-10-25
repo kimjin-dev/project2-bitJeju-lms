@@ -1,0 +1,4 @@
+Servers/
+.settings/
+build/
+bitJeju/WebContent/WEB-INF/lib/ojdbc14.jar
